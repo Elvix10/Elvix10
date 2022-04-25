@@ -2,8 +2,7 @@
 #### Welcome to my GitHub page
 you wanna a tea coffee ...
 
-- 🔭 I’m currently working on Reactjs, Materia-ui
-- 🌱 I’m currently learning redux-toolkit
+- 🔭 I’m currently working on Reactjs, Materia-ui, react-native
 
  <div>
   <a href="https://github.com/Elvix10">
